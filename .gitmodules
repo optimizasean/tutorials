@@ -4,3 +4,6 @@
 [submodule "wasm/watlings"]
 	path = wasm/watlings
 	url = git@github.com:optimizasean/watlings.git
+[submodule "ruby/Depot"]
+	path = ruby/Depot
+	url = git@github.com:optimizasean/Depot.git
