@@ -1,3 +1,6 @@
 [submodule "rust/rustlings"]
 	path = rust/rustlings
 	url = git@github.com:optimizasean/rustlings.git
+[submodule "wasm/watlings"]
+	path = wasm/watlings
+	url = git@github.com:optimizasean/watlings.git
