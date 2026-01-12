@@ -7,3 +7,6 @@
 [submodule "ruby/Depot"]
 	path = ruby/Depot
 	url = git@github.com:optimizasean/Depot.git
+[submodule "typescript/pro-essentials-workshop"]
+	path = typescript/pro-essentials-workshop
+	url = git@github.com:optimizasean/pro-essentials-workshop.git
