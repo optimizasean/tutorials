@@ -1,15 +1,20 @@
 [submodule "rust/rustlings"]
 	path = rust/rustlings
 	url = git@github.com:optimizasean/rustlings.git
+  branch = main
 [submodule "wasm/watlings"]
 	path = wasm/watlings
 	url = git@github.com:optimizasean/watlings.git
+  branch = main
 [submodule "ruby/Depot"]
 	path = ruby/Depot
 	url = git@github.com:optimizasean/Depot.git
+  branch = main
 [submodule "typescript/pro-essentials-workshop"]
 	path = typescript/pro-essentials-workshop
 	url = git@github.com:optimizasean/pro-essentials-workshop.git
+  branch = main
 [submodule "zig/ziglings"]
 	path = zig/ziglings
 	url = git@github.com:optimizasean/ziglings.git
+  branch = main
