@@ -11,10 +11,14 @@
 	url = git@github.com:optimizasean/Depot.git
   branch = main
 [submodule "typescript/pro-essentials-workshop"]
-	path = typescript/pro-essentials-workshop
+	path = typescript/total-typescript/pro-essentials-workshop
 	url = git@github.com:optimizasean/pro-essentials-workshop.git
   branch = main
 [submodule "zig/ziglings"]
 	path = zig/ziglings
 	url = git@github.com:optimizasean/ziglings.git
   branch = main
+[submodule "typescript/total-typescript/type-transformations-workshop"]
+	path = typescript/total-typescript/type-transformations-workshop
+	url = git@github.com:total-typescript/type-transformations-workshop.git
+	branch = main
