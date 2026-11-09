@@ -1,24 +1,51 @@
-[submodule "rust/rustlings"]
-	path = rust/rustlings
-	url = git@github.com:optimizasean/rustlings.git
-  branch = main
-[submodule "wasm/watlings"]
-	path = wasm/watlings
-	url = git@github.com:optimizasean/watlings.git
-  branch = main
+# Tutorials ordered alphabetically by directory path.
+# Tree comments show folders; source links identify the original learning material.
+# The url fields identify the repositories cloned by Git (including personal forks).
+
+# ruby/
+# └── Depot/ — The Depot Application, Agile Development with Rails, Chapter 5
+#     Source: https://www.oreilly.com/library/view/agile-web-development/9780976694007/
 [submodule "ruby/Depot"]
 	path = ruby/Depot
 	url = git@github.com:optimizasean/Depot.git
-  branch = main
+	branch = main
+
+# rust/
+# └── rustlings/
+#     Source: https://github.com/rust-lang/rustlings
+[submodule "rust/rustlings"]
+	path = rust/rustlings
+	url = git@github.com:optimizasean/rustlings.git
+	branch = main
+
+# typescript/
+# └── total-typescript/ — https://www.totaltypescript.com/
+#     ├── pro-essentials-workshop/
+#     │   Source: https://github.com/total-typescript/pro-essentials-workshop
 [submodule "typescript/pro-essentials-workshop"]
 	path = typescript/total-typescript/pro-essentials-workshop
 	url = git@github.com:optimizasean/pro-essentials-workshop.git
-  branch = main
+	branch = main
+
+#     └── type-transformations-workshop/
+#         Source: https://github.com/total-typescript/type-transformations-workshop
+[submodule "typescript/total-typescript/type-transformations-workshop"]
+	path = typescript/total-typescript/type-transformations-workshop
+	url = git@github.com:optimizasean/type-transformations-workshop.git
+	branch = main
+
+# wasm/
+# └── watlings/
+#     Source: https://github.com/EmNudge/watlings
+[submodule "wasm/watlings"]
+	path = wasm/watlings
+	url = git@github.com:optimizasean/watlings.git
+	branch = main
+
+# zig/
+# └── ziglings/
+#     Source: https://codeberg.org/ziglings/exercises
 [submodule "zig/ziglings"]
 	path = zig/ziglings
 	url = git@github.com:optimizasean/ziglings.git
-  branch = main
-[submodule "typescript/total-typescript/type-transformations-workshop"]
-	path = typescript/total-typescript/type-transformations-workshop
-	url = git@github.com:total-typescript/type-transformations-workshop.git
 	branch = main
